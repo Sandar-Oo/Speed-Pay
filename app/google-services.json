@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "105388185663",
+    "firebase_url": "https://speed-pay-1589210657470.firebaseio.com",
+    "project_id": "speed-pay-1589210657470",
+    "storage_bucket": "speed-pay-1589210657470.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105388185663:android:b425d9434b73032e7b008a",
+        "android_client_info": {
+          "package_name": "com.cronocode.materialloginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105388185663-our6kqfdij2iip3039bf7rjq9umutp5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwwtW9x7ed9NgczztYza5fmIZA4fPcsUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105388185663-our6kqfdij2iip3039bf7rjq9umutp5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
